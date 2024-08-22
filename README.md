@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Takibul Hasan.</h1>
+<h1 align="center">Hi 👋, I'm Takibul Hasan Mirza</h1>
 <h3 align="center">I'm motivated & passionate about web development. I have a strong foundation in JavaScript, HTML, CSS, React, and Express.js Building user-friendly and responsive web applications. I'm looking for a frontend web developer role. I want to use my skills to create websites that people love to use. It’s exciting to grow as part of a dynamic team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirza2018&label=Profile%20views&color=0e75b6&style=flat" alt="mirza2018" /> </p>
