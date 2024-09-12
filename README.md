@@ -32,8 +32,8 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 
 ## 📊 My Github Stats
-
-  [![Takibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirza2018hide=prs&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mirza2018hide=prs&count_private=true&show_icons=true&theme=radical)
+  ![mirza2018's Stats](https://github-readme-stats.vercel.app/api?username=mirza2018&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+  ![mirza2018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirza2018&theme=gruvbox&hide_border=false)
 
 ## ✨ Top Languages Card
 
