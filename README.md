@@ -18,7 +18,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=x7XMNGh2vdqA&format=png"/> </a> 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
@@ -33,7 +33,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 
 ## 📊 My Github Stats
 
-  [![Takibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirza2018hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/mirza2018/github-readme-stats)
+  [![Takibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirza2018hide=prs&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mirza2018hide=prs&count_private=true&show_icons=true&theme=radical)
 
 ## ✨ Top Languages Card
 
