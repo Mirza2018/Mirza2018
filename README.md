@@ -44,7 +44,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
 <br/>
 
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mirza2018">
 </a>
