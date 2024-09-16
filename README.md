@@ -54,7 +54,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff:
+#### My information:
 
 - 📧 How to reach me **web.takib@gmail.com**
 - 📞 Contract Me **+8801707139055**
