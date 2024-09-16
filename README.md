@@ -1,5 +1,9 @@
 ### Hey there, I'm  Takibul Hasan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
+
+
+### I have a strong foundation in JavaScript, HTML, CSS, React, Next js and Express.js Building user-friendly and responsive web applications. Seeking backend/frontend developer role in an environment, where I can contribute to innovativeprojects and expand my skillset. I want to use my skills to create websites that people love to use.
+
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
@@ -47,7 +51,6 @@
 
 
 
-### I have a strong foundation in JavaScript, HTML, CSS, React, Next js and Express.js Building user-friendly and responsive web applications. Seeking backend/frontend developer role in an environment, where I can contribute to innovativeprojects and expand my skillset. I want to use my skills to create websites that people love to use.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
