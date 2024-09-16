@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
+<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Js" />
 
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React Js" />
 
@@ -26,10 +27,10 @@
 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="VITE" />
-<img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
 
 <img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" alt="Node js"/>
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=yellow" alt="Express js" />
+<img src="https://img.shields.io/badge/Express-000000??style=for-the-badge&logo=express&logoColor=yellow" alt="Express js" />
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
