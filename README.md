@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
 
 <img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" alt="Node js"/>
-<img src="https://img.shields.io/badge/Express-000000??style=for-the-badge&logo=express&logoColor=yellow" alt="Express js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=yellow" alt="Express js" />
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
