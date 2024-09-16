@@ -68,7 +68,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-  ![mirza2018's Stats](https://github-readme-stats.vercel.app/api?username=mirza2018&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
   ![mirza2018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirza2018&theme=gruvbox&hide_border=false)
 ![mirza2018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirza2018&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
