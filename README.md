@@ -58,8 +58,8 @@
 #### My information:
 
 - 📧 How to reach me **web.takib@gmail.com**
-- 📞 Contract Me **+8801707139055**
-- 🧑‍💻 My website - **https://takibulhasan.netlify.app/**
+- 📞 Contract Me **+8801881659117**
+- 🧑‍💻 My website - **https://takibul-hasan.netlify.app/**
 
 
 
