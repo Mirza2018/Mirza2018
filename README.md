@@ -2,7 +2,7 @@
 
 
 
-### I have a strong foundation in JavaScript, HTML, CSS, React, and Express.js Building user-friendly and responsive web applications. I can contribute to innovative projects and expand my skillset. I want to use my skills to create websites that people love to use.
+### I'm a passionate Frontend Developer with experience in building responsive web applications. I love creating user-friendly interfaces and solving complex problems with clean, efficient code.
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
