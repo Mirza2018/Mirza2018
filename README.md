@@ -59,7 +59,7 @@
 
 - 📧 How to reach me **takib.dev@gmail.com**
 - 📞 Contract Me **+8801881659117**
-- 🧑‍💻 My website - **https://takibul-hasan.netlify.app/**
+- 🧑‍💻 My website - **https://takibul-hasan.vercel.app/**
 
 
 
