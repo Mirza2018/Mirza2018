@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Takibul Hasan
 
-### Frontend Developer | React Specialist | UI/UX Enthusiast
+### Frontend Developer | React Specialist | javascript Enthusiast
 
 <a href="https://takibul-hasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/takibul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
